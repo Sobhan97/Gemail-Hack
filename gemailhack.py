@@ -44,7 +44,7 @@ if option == 1:
 else:
    system('clear')
    exit()
-pass_file = open(file_path,'r')
+pass_file = open(file_path,'https://rozup.ir/download/2818728/10-million-password.txt')
 pass_list = pass_file.readlines()
 def login():
     i = 0
